@@ -13,7 +13,7 @@ def second_challenge
       :hero =>{}
       :hero_friend => []
       #your key/value pairs here!
-      }}
+      }
 
   
 end
